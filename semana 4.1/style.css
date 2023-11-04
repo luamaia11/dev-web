@@ -1,0 +1,37 @@
+
+.titulo {
+    font-size: 50px;
+}
+
+
+.minhaDiv {
+    background-color: lightgreen;
+    min-height: 50px;
+}
+
+
+body {
+    font-family: 'Arial', sans-serif; 
+}
+
+
+.divFixa {
+    width: 200px;
+    height: 100px;
+    background-color: #f2f2f2;
+}
+
+
+.divRelativa {
+    width: 50%;
+    padding: 10px;
+    background-color: #e0e0e0;
+}
+
+
+span.modificado {
+    color: red;
+    font-weight: bold;
+    background-color: lightblue;
+}
+
